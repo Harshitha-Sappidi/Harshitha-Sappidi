@@ -80,9 +80,7 @@ An **e-commerce database system** optimizing product listings, orders, and custo
 ## 🎓 Education  
 
 ### Northeastern University, Boston, MA  
-**Master of Science in Information Systems** (Expected Dec 2025)  
-**GPA:** 3.9  
-Coursework:  
+**Master of Science in Information Systems** (Expected Dec 2025)- GPA: 3.9  
 - Web Design and User Experience Engineering, Program Structures and Algorithms, Database Management, Design Patterns, Network Structures & Cloud Computing  
 
 ### G. Narayanamma Institute of Technology and Science, Hyderabad  
