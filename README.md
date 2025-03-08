@@ -82,13 +82,8 @@ An **e-commerce database system** optimizing product listings, orders, and custo
 ### Northeastern University, Boston, MA  
 **Master of Science in Information Systems** (Expected Dec 2025)  
 **GPA:** 3.9  
-Relevant Coursework:  
-- Web Design and User Experience Engineering 
-- Program Structures and Algorithms 
-- Database Management  
-- Design Patterns  
-- Network Structures & Cloud Computing  
-
+Coursework:  
+- Web Design and User Experience Engineering, Program Structures and Algorithms, Database Management, Design Patterns, Network Structures & Cloud Computing  
 
 ### G. Narayanamma Institute of Technology and Science, Hyderabad  
 **Bachelor of Technology in Electrical and Electronics Engineering** (Graduated Nov 2020)  
