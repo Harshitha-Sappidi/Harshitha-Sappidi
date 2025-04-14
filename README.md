@@ -57,26 +57,6 @@ An **e-commerce database system** optimizing product listings, orders, and custo
 
 🔗 **GitHub:** [Online Fashion Retail Repo](https://github.com/Harshitha-Sappidi/OnlineFashionRetail)  
 
-## 💼 Professional Experience  
-
-### Software Development Engineer @ Deloitte USI | Royal Caribbean Group  
-📍 Hyderabad, India (May 2023 – Dec 2023)  
-
-- Implemented **security enhancements** reducing breaches by **15%** through **authentication, authorization, and session filtering**.  
-- Integrated backend systems with **Microsoft Dynamics** via **RESTful APIs**, improving operational efficiency by **40%**.  
-- Consolidated **9 repositories into 2**, reducing **technical debt by 20%** and boosting performance by **25%**.  
-- Built **internationalized APIs** to support multiple locales, enhancing user experience by **30%**.  
-
-
-### Software Developer @ Deloitte USI | Sony  
-📍 Hyderabad, India (Jan 2021 – May 2023)  
-
-- Contributed to a **global SaaS website** driving **25% higher user engagement across 140 locales**.  
-- Automated testing using **JUnit and Mockito**, increasing test coverage from **30% to 85%**.  
-- Configured **CI/CD pipelines** with Jenkins, Docker, and Kubernetes, reducing deployment time by **35%**.  
-- Recognized with **Applause & Spot Awards** for delivering critical projects with **zero defects**.  
-
-
 ## 🎓 Education  
 
 ### Northeastern University, Boston, MA  
