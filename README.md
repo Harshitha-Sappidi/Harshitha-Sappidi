@@ -1,7 +1,7 @@
 ## 👩‍💻 Hi I am Harshitha Sappidi 
 
 ## 🌟 About Me  
-I'm a **Full Stack Developer** with experience** in **backend development** and building **scalable web applications**. Currently pursuing my **Master's in Information Systems** at **Northeastern University**, exploring **cloud technologies like AWS, GCP, and DevOps tools**.  Passionate about creating **secure, efficient solutions** and collaborating on projects that drive **innovation and business impact**.  
+I'm a **Full Stack Developer** with experience in **backend development** and building **scalable web applications**. Currently pursuing my **Master's in Information Systems** at **Northeastern University**, exploring **cloud technologies like AWS, GCP, and DevOps tools**.  Passionate about creating **secure, efficient solutions** and collaborating on projects that drive **innovation and business impact**.  
 
 ## 🔑 Technical Expertise  
 
